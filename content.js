@@ -1,2 +1,2 @@
 console.log("kyrmo")
-console.log("ywtfk")
+console.log("nrugr")

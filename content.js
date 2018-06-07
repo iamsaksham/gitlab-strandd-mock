@@ -1,2 +1,2 @@
 console.log("kyrmo")
-console.log("gdlve")
+console.log("lmnih")
